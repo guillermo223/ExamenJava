@@ -7,3 +7,5 @@ creo la persistencia con ColegasDao y MySqLColegasDao.
 ojo subo en este otro commit otros archivos para la creacion de modelo.entidades que no incluí en los primeros pasos y otros datos de mi base de datos.
 
 añado librerias para poder realizar la aplicación correctamente.
+
+realizo el test.
