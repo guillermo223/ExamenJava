@@ -13,3 +13,5 @@ realizo el test.
 realizo el negocio con la interfaz y su implementación.
 
 ejecuto el Lanzador
+
+Termino subiendo el resto de  archivos necesarios de creación del proyecto.(Podían haberse subido antes)
