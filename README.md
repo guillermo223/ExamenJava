@@ -9,3 +9,5 @@ ojo subo en este otro commit otros archivos para la creacion de modelo.entidades
 añado librerias para poder realizar la aplicación correctamente.
 
 realizo el test.
+
+realizo el negocio con la interfaz y su implementación.
