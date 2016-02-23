@@ -1,0 +1,1 @@
+empiezo examen creando en mysql elaborando mi base de datos colgajdbc
